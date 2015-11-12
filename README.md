@@ -14,5 +14,6 @@ Meteor is more fun with React, and [tutorial][tutorial] is a great place to star
 
 ## Running on mobile
 
-- Following all instruction does not result in `meteor run andoird` to work, installing system image helper.
+- Following all instruction does not result in `meteor run andoird` to work, installing system image helps.
   - To fix it, run `andoird sdk` and install _Intel x86 Atom_64 System Image_ for required SDK Platform.
+  - Then create AVD using `android avd`.  
