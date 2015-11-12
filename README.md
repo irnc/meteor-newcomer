@@ -11,3 +11,8 @@ Meteor is more fun with React, and [tutorial][tutorial] is a great place to star
   - and switch JavaScript language version to _JSX Harmony_
 
 [download-ts-definition]: http://blog.jetbrains.com/webstorm/2015/10/working-with-reactjs-in-webstorm-coding-assistance/
+
+## Running on mobile
+
+- Following all instruction does not result in `meteor run andoird` to work, installing system image helper.
+  - To fix it, run `andoird sdk` and install _Intel x86 Atom_64 System Image_ for required SDK Platform.
