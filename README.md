@@ -26,3 +26,8 @@ Meteor is more fun with React, and [tutorial][tutorial] is a great place to star
 
 - https://github.com/iron-meteor/iron-router
 - https://www.okgrow.com/posts/flow-router-migration-guide
+
+## Package Development
+
+- https://atmospherejs.com/i/publishing
+- https://themeteorchef.com/recipes/writing-a-package/
