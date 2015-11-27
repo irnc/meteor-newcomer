@@ -33,3 +33,7 @@ Meteor is more fun with React, and [tutorial][tutorial] is a great place to star
 
 - https://atmospherejs.com/i/publishing
 - https://themeteorchef.com/recipes/writing-a-package/
+
+## Stay at the top
+
+- Subscribe to https://twitter.com/zubkou/lists/meteor
